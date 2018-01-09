@@ -21,6 +21,6 @@ export class ChatroomComponent implements OnInit, AfterViewChecked {
   ngAfterViewChecked() {
     this.scrollToBottom();
     }
-  }
-
 }
+
+
